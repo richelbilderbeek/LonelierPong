@@ -10,4 +10,4 @@ smash hit
 [LonelyPong](https://github.com/thijsvb/thijsvb.github.io/tree/master/LonelyPong).
 
 You can play the game at 
-[the LonelierPong page of richelbilderbeeks GitHub pages](http://richelbilderbeek.github.io/LonelierPong/LonelierPong.html).
+[the LonelierPong page of richelbilderbeek his GitHub pages](http://richelbilderbeek.github.io/LonelierPong/LonelierPong.html).
