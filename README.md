@@ -16,3 +16,4 @@ smash hit
 
 You can play the game at 
 [the LonelierPong page of richelbilderbeek his GitHub pages](http://richelbilderbeek.github.io/LonelierPong/LonelierPong.html).
+
