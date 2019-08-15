@@ -1,4 +1,8 @@
 language: java
+dist: bionic
+
+install: 
+  - sudo apt update -qq
 
 script: 
   - jdk_switcher use oraclejdk8
