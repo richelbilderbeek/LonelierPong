@@ -6,6 +6,7 @@ install:
 
 services:
   - jdk
+  - jvm
 
 script: 
   #- jdk_switcher use oraclejdk8
