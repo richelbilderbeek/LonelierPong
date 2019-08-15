@@ -4,9 +4,7 @@ dist: bionic
 install: 
   - sudo apt update -qq
 
-services:
-  - jdk
-  - jvm
+jdk: openjdk11
 
 script: 
   #- jdk_switcher use oraclejdk8
