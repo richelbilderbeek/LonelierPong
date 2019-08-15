@@ -4,6 +4,8 @@ dist: bionic
 install: 
   - sudo apt update -qq
 
+jdk: openjdk11
+
 script: 
   - jdk_switcher use openjdk11
   - ./download_processing.sh
